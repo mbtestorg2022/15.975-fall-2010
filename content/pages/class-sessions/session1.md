@@ -11,7 +11,7 @@ Preparation
 
 ### Pre-reading
 
-Scharmer, C. Otto. "The Blind Spot of Institutional Leadership: How to Create Deep Innovation Through Moving From Egosystem to Ecosystem Awareness." Paper prepared for World Economic Forum, Annual Meeting of the New Champions 2010, Tianjin, People's Republic of China, September 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ottoscharmer.com/docs/articles/2010_DeepInnovation_Tianjin.pdf))
+Scharmer, C. Otto. "The Blind Spot of Institutional Leadership: How to Create Deep Innovation Through Moving From Egosystem to Ecosystem Awareness." Paper prepared for World Economic Forum, Annual Meeting of the New Champions 2010, Tianjin, People's Republic of China, September 2010. ([PDF](http://www.ottoscharmer.com/docs/articles/2010_DeepInnovation_Tianjin.pdf))
 
 ———. "Introduction." In _Theory U: Leading From the Future As It Emerges_. San Francisco, CA: Berrett-Koehler, 2009. ISBN: 9781576757635.
 
